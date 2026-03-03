@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 
-const TEMPLATE_REPO = "uratmangun/vinext-template";
+const TEMPLATE_REPO = "uratmangun/aleo-template";
 
 const SELECT_ARROW_STYLE = {
   backgroundImage:
